@@ -75,3 +75,16 @@ a.mail {
 a.mail:hover {
   color: white;
 }
+
+.action-section {
+  margin: 5em 0em;
+}
+
+.mission-section {
+  margin: 10em 0em;
+}
+
+.shrink {
+  width: 45%;
+  bottom: 20px;
+}
