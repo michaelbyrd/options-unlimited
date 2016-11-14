@@ -62,7 +62,7 @@ footer.page-footer {
 }
 
 .banner-card {
-  opacity: 0.9;
+  background-color: rgba(224, 224, 224, 0.9);
 }
 
 .card-content {
@@ -92,4 +92,9 @@ a.mail:hover {
 .card-image {
   height: 12em;
   overflow: hidden;
+}
+
+/* override */
+.btn, .btn-large, .btn-flat {
+  text-transform: none !important;
 }
